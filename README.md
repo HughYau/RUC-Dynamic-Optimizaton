@@ -28,4 +28,4 @@
 ## 有用的参考资料：
 - https://github.com/jbduarte/Computational-Methods-in-Macro
 - https://github.com/yangycpku/macro_ML
-- https://python.quantecon.org/intro.html (“宏观研学会”公众号上有部分翻译，导航栏选择Python即可找到)
+- https://python.quantecon.org/intro.html (建议阅读英文原版，如有困难，“宏观研学会”公众号上有部分翻译，导航栏选择Python即可找到)
